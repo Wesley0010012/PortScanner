@@ -5,7 +5,6 @@ How to Use:
   ./PortScanner.sh -i [IP] -p [Min] [Max]
 Options:
   -i: Only IP scan;
-  -w: WebSite Scan(In developement);
   -p: Port Range Scan [Min]/[Max]
   -s: All Ports Scan;
   -t: One Port Scan;
