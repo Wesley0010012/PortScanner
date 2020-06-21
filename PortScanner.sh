@@ -11,7 +11,6 @@ else
 		echo "Created by Wesley0010012"
 		echo "Usage: ./PortScanner -i [IP] -p [Min][Max]"
 		echo "-i: Use IP mode;"
-		echo "-w: Use WebSite Scanner;"
 		echo "-p: Port-Range Scan;"
 		echo "-s: All Ports Scan;"
 		echo "-t: One Port Scan;"
